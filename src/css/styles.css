@@ -29,7 +29,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(../assets/images/birthday.png);
+  background-image: url(@images/birthday.png);
 }
 
 .display-container {
